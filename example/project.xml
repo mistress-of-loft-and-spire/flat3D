@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="flatland" package="flat3D" version="1.0.0" company="voec" />
+
+	<!-- output -->
+ 	<app file="flatland" main="Main" path="bin" />
+
+	<window fps="60" background="0x333333" />
+	<window width="1280" height="720" resizable="true" unless="mobile" />
+	<window fullscreen="true" if="mobile" />
+	<window orientation="landscape" vsync="true" antialiasing="0" if="cpp" />
+
+	<source path="src" />
+
+	<!-- classpath, haxe libs -->
+	<haxelib name="HaxePunk" version="2.5.6" />
+
+	<!-- assets -->
+	<assets path="gfx" rename="gfx" include="*.png|*.jpg" />
+
+	<icon path="assets/HaxePunk.svg" />
+</project>
