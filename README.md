@@ -19,19 +19,19 @@ I think an animation explains it best.
 
 ## More examples
 
-EXAMPLE 1, spritesheet
-![leaf/assets/egg.png]()
+EXAMPLE 1, spritesheet  
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/egg.png]()
 
-EXAMPLE 1, result
-![leaf/egggws5u.gif]()
+EXAMPLE 1, result  
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/egggws5u.gif]()
 
-EXAMPLE 2, spritesheet
-![leaf/assets/tree-bot.png]()
-![leaf/assets/tree-mid.png]()
-![leaf/assets/tree-top.png]()
+EXAMPLE 2, spritesheet  
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-bot.png]()
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-mid.png]()
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-top.png]()
 
-EXAMPLE 2, result
-![leaf/dev/oak.gif]()
+EXAMPLE 2, result  
+![https://raw.githubusercontent.com/voec/flat3D/master/leaf/dev/oak.gif]()
 
 ## How to install
 
