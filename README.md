@@ -1,4 +1,5 @@
-*Notice, 2019: Old project, documentation is incomplete. Uploaded for archival purposes.*
+*Notice, 2019: Old project, documentation is incomplete. Uploaded for archival purposes.*  
+  
 
 
 # punk.Pseudo3D
@@ -14,7 +15,7 @@ This can be used to create a lot of different styles and types of games. For exa
 
 I think an animation explains it best.
 
-![GIF.gif](gif)
+![gif](GIF.gif)
 
 ## How to install
 
