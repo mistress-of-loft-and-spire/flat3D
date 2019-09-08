@@ -20,18 +20,18 @@ I think an animation explains it best.
 ## More examples
 
 EXAMPLE 1, spritesheet  
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/egg.png]()
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/gfx/egg.png)
 
 EXAMPLE 1, result  
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/egggws5u.gif]()
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/egggws5u.gif)
 
 EXAMPLE 2, spritesheet  
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-bot.png]()
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-mid.png]()
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/tree-top.png]()
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-bot.png)
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-mid.png)
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-top.png)
 
 EXAMPLE 2, result  
-![https://raw.githubusercontent.com/voec/flat3D/master/leaf/dev/oak.gif]()
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/dev/oak.gif)
 
 ## How to install
 
