@@ -26,9 +26,9 @@ EXAMPLE 1, result
 ![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/egggws5u.gif)
 
 EXAMPLE 2, spritesheet  
-![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-bot.png)
-![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-mid.png)
-![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/gfx/assets/tree-top.png)
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/gfx/tree-bot.png)
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/gfx/tree-mid.png)
+![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/assets/gfx/tree-top.png)
 
 EXAMPLE 2, result  
 ![](https://raw.githubusercontent.com/voec/flat3D/master/leaf/dev/oak.gif)
