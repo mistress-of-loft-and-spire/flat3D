@@ -17,10 +17,26 @@ I think an animation explains it best.
 
 ![gif](GIF.gif)
 
+## More examples
+
+EXAMPLE 1, spritesheet
+![leaf/assets/egg.png]()
+
+EXAMPLE 1, result
+![leaf/egggws5u.gif]()
+
+EXAMPLE 2, spritesheet
+![leaf/assets/tree-bot.png]()
+![leaf/assets/tree-mid.png]()
+![leaf/assets/tree-top.png]()
+
+EXAMPLE 2, result
+![leaf/dev/oak.gif]()
+
 ## How to install
 
-Basicly just copy over the pseudo3D folder directly into your source directory.
-(You can also copy it into your HaxePunk directory if you want to use it in different projects)
+~~Basicly just copy over the pseudo3D folder directly into your source directory.
+(You can also copy it into your HaxePunk directory if you want to use it in different projects)~~
 
 ## How to use
 

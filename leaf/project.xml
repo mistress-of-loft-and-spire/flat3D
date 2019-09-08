@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="leaf" package="" version="1.0.0" company="voec" />
+
+	<!-- output -->
+ 	<app file="leaf" main="Main" path="bin" />
+
+	<window fps="60" background="0xd1bcb4" />
+	<window width="960" height="540" resizable="true" unless="mobile" />
+	<window fullscreen="true" if="mobile" />
+	<window orientation="landscape" vsync="true" antialiasing="0" if="cpp" />
+
+	<source path="src" />
+
+	<!-- classpath, haxe libs -->
+	<haxelib name="HaxePunk" version="2.5.6" />
+
+	<!-- assets -->
+	<assets path="assets/gfx" rename="gfx" include="*.png|*.jpg" />
+	<assets path="assets/sfx" rename="sfx" include="*.mp3" if="flash" />
+	<assets path="assets/sfx" rename="sfx" include="*.ogg" unless="flash" />
+</project>
