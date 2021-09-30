@@ -40,7 +40,7 @@ EXAMPLE 2, result
 
 ## How to use
 
-etc
+![](vxx3t.gif)
 
 #### IV.
 
