@@ -40,7 +40,7 @@ EXAMPLE 2, result
 
 ## How to use
 
-![](vxx3t.gif)
+etc
 
 #### IV.
 
@@ -50,7 +50,7 @@ EXAMPLE 2, result
 >>>>
 Let your imagination run wild!
 
-*spiral gif*
+![](vxx3t.gif)
 
 ## Ressources and further reading
 
